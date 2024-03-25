@@ -1,2 +1,2 @@
-# RockbutsterVideoRental
+# RockbusterVideoRental
 SQL Queries
