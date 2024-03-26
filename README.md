@@ -1,5 +1,5 @@
-# RockbusterVideoRental
-## SQL Queries
+# SQL - RockbusterVideoRental
+
 <p>
 <b>Introduction</b>
 <br><br>
