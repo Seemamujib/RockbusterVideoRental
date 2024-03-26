@@ -1,5 +1,8 @@
 # SQL - RockbusterVideoRental
-
+<p>
+Data-driven presentation was created for the Management Board to answer the business questions, Data dictionary and SQLs used to answer the key questions were shared to the technical team in an Excel file
+</p>
+<br><br>
 <p>
 <b>Introduction</b>
 <br><br>
