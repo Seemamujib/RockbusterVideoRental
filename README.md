@@ -21,13 +21,15 @@ the main questions they’d like to answer:
 </p>
 <br>
 <p>
-<b>Data Set</b>
-<br>Rockbuster database was used for the analysis purpose.  The data set contains information about Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses. Here's a link to the complete <a href="C:\Users\19452\Desktop\Seema\Careerfoundry-Data Analytics Course\Work Area\Data Immersion\Databases\Achievement 3\Exercise 3.10\3.10 Task files\Rockbusters DataDictionary.pdf">Data Dictionary</a>
+<b>Data & Tools</b>
+<br>Rockbuster relational database management system and Postgre SQL was used for the analysis purpose.  The data set includes information about Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses.
 </p>
 <br>
 <p>
+<b>Visualizations</b>
+<br>
 <a href="https://public.tableau.com/views/RockbusterTop5/Top10Countries?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link">
-Link to Tableau Presentation </a>
+Take a look at the link to visualizations on Tableau Public </a>
 </P>
 
 
