@@ -29,8 +29,8 @@ Rockbuster relational database management system and Postgre SQL was used for th
 <p>
 <b>Visualizations</b>
 <br><br>
-<a href="https://public.tableau.com/views/RockbusterTop5/Top10Countries?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link">
-Take a look at the link to visualizations on Tableau Public </a>
+Take a look at the <a href="https://public.tableau.com/views/RockbusterTop5/Top10Countries?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link">
+link to visualizations </a>on Tableau Public 
 </P>
 
 
