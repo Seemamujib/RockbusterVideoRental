@@ -22,7 +22,7 @@ the main questions they’d like to answer:
 <br>
 <p>
 <b>Data Set</b>
-<br>Rockbuster database was used for the analysis purpose.  The data set contains information about Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses. Here's a link to the complete <a href='"C:\Users\19452\Desktop\Seema\Careerfoundry-Data Analytics Course\Work Area\Data Immersion\Databases\Achievement 3\Exercise 3.10\3.10 Task files\Rockbusters DataDictionary.pdf">Data Dictionary</a>
+<br>Rockbuster database was used for the analysis purpose.  The data set contains information about Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses. Here's a link to the complete <a href="C:\Users\19452\Desktop\Seema\Careerfoundry-Data Analytics Course\Work Area\Data Immersion\Databases\Achievement 3\Exercise 3.10\3.10 Task files\Rockbusters DataDictionary.pdf">Data Dictionary</a>
 </p>
 <br>
 <p>
